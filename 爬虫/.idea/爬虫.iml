@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/qiushi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/qiushi/qiushi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/qiushi/qiushi/spiders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/Stationer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/Stationer/Stationer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/Stationer/Stationer/spiders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/Middle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/Middle/Middle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/Middle/Middle/spiders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/wangyi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/wangyi/wangyi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/wangyi/wangyi/spiders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/异步爬虫" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/bukai" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/bukai/bukai" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/bukai/bukai/spiders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/quanzhan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/quanzhan/quanzhan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scrapy框架/quanzhan/quanzhan/spiders" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+</module>
